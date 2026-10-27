@@ -1,0 +1,6 @@
+{
+  "name": "StockSentinel",
+  "description": "Production Line Component Early Warning System that tracks workstation inventory in real time, predicts time-to-stockout, and prevents line stoppages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
